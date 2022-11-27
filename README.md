@@ -40,6 +40,7 @@ Figure 1.0
 Overall transactions by status
 
 With a  Total number of 3255 transactions "Abandoned' has the highest number of transactions with 45.64% of the overall transactions. We had little reversed transactions at 1.26% as opposed to failed and Success which were 13.03% and 41.08% respectively.
+Use this [Link](https://open.substack.com/pub/fabulousnani/p/transaction-checkout-report?r=accg3&utm_campaign=post&utm_medium=web) to view full report and documentation.
 
 
 
